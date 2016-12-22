@@ -1,4 +1,5 @@
-# Make EC-based brightness up/down work with RehabMan VoodooPS2 ACPI keyboard mechanism
+# Patch for brightness adjustment with F2/F3 using RehabMan's VoodooPS2 ACPI keyboard mechanism
+# Tested on HP Spectre XT Pro Ultrabook 13-b000
 
 into method label _Q11 replace_content
 begin
