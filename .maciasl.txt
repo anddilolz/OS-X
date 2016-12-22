@@ -1,1 +1,0 @@
-[fix] --> Spectre XT Pro Brightness Hotkey DSDT Patch	HP/Spectre.txt
